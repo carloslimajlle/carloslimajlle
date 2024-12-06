@@ -1,10 +1,6 @@
-<h1 align="center">Olá 👋, Eu sou o Carlos!</h1>
+<h1 align="center">Carlos Lima!</h1>
 <h3 align="center">Entusiasta de Java, construindo aplicações de alto desempenho.</h3>
 <img align="right" width="300" alt="Coding Specialist" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif">
-
-- 🔭 Atualmente estou trabalhando na **Supero**
-
-- 🌱 Atualmente estou aprendendo **Arquitetura de Software**
 
 - 📫 Como chegar até mim **https://www.linkedin.com/in/carlosrlima/**
 
