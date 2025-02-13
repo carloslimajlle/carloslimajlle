@@ -50,7 +50,7 @@ Tenho experiência no desenvolvimento e na arquitetura de sistemas escaláveis, 
 ---
 
 ## 📈 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carloslimajlle&show_icons=true&theme=dark)
 
 ---
 
