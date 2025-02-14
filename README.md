@@ -55,5 +55,5 @@ Tenho experiência no desenvolvimento e na arquitetura de sistemas escaláveis, 
 ---
 
 ## 📫 Entre em Contato
-🔗 [LinkedIn](https://www.linkedin.com/in/lima.carlosr/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/carlosrlima/)  
 
